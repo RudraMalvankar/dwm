@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Keep environment metadata ignored but allow tracking of actual env directories per user request
+ENV/
+env/
+.env
+
+# VS Code workspace files
+*.code-workspace
+
+# Pytest cache
+.pytest_cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and OS files
+*.log
+.DS_Store
+
+# Compiled binaries
+*.exe
